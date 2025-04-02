@@ -1,0 +1,6 @@
+
+ARG BASE_REGISTRY=registry.access.redhat.com
+ARG BASE_IMAGE=${BASE_IMAGE}
+ARG BASE_TAG=latest
+
+FROM ${BASE_REGISTRY}/${BASE_IMAGE}:${BASE_TAG} AS base
