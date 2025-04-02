@@ -3,9 +3,9 @@
     "version": "0.1.0",
     "name": "Existing Dockerfile",
     "description": "Develop Python 3 applications.",
-    "documentationURL": "https://github.com/devcontainers/templates/tree/main/src/python",
+    "documentationURL": "https://github.com/bobbysy/devcontainer-templates/tree/main/src/python-cuda",
     "publisher": "Dev Container Spec Maintainers",
-    "licenseURL": "https://github.com/devcontainers/templates/blob/main/LICENSE",
+    "licenseURL": "https://github.com/bobbysy/devcontainer-templates/blob/main/LICENSE",
     "platforms": ["Any"],
     "optionalPaths": [
         ".github/*"
